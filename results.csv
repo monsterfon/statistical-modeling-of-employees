@@ -1,0 +1,20 @@
+1,"John Smith",1,CEO,1,10000
+2,"Sarah Goodes",1,CFO,1,10000
+3,"Wayne Ablett",1,CIO,1,10000
+4,"Michelle Carey",2,"HR Manager",1,3000
+5,"Chris Matthews",3,"Sales Manager ",2,2000
+6,"Andrew Judd",4,"Development Manager",3,3000
+7,"Danielle McLeod",5,"Support Manager",3,3000
+8,"Matthew Swan",2,"HR Representative",4,3000
+9,"Stephanie Richardson",2,Salesperson,5,2000
+10,"Tony Grant",3,Salesperson,5,2000
+11,"Jenna Lockett",4,"Front-End Developer",6,3000
+12,"Michael Dunstall",4,"Back-End Developer",6,3000
+13,"Jane Voss",4,"Back-End Developer",6,3000
+14,"Anthony Hird",5,Support,7,3000
+15,"Natalie Rocca",5,Support,7,3000
+16,"Fiona Green",4,"Front-End Developer",6,3000
+17,"George Hall",4,"Front-End Developer",6,3000
+18,"Hannah Evans",4,"Front-End Developer",6,3000
+19,"Ian Kelly",4,"Front-End Developer",6,3000
+20,"Julia Roberts",4,"Front-End Developer",6,3000
